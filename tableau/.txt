@@ -1,1 +1,5 @@
+# Credit Card Fraud Analysis Dashboard
+This Tableau dashboard visualizes fraud patterns in a ~100MB credit card transaction dataset, including transaction amounts, fraud distribution by gender, and geographic trends.
 
+- **View Online**: [Tableau Public Link](https://public.tableau.com/views/Fraud_Detection_17461454514820/FraudDetectionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Workbook**: `fraud_dashboard.twbx` (requires Tableau Desktop)
